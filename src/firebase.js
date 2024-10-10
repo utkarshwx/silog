@@ -7,13 +7,13 @@ import { getAuth } from "firebase/auth";
 // Your web app's Firebase configuration
 // For Firebase JS SDK v7.20.0 and later, measurementId is optional
 const firebaseConfig = {
-  apiKey: "AIzaSyBfK6es8ClyXJxTnkhXot0NvLUYs1Yw32Q",
-  authDomain: "silog-beee0.firebaseapp.com",
+  apiKey: "",
+  authDomain: "",
   projectId: "silog-beee0",
-  storageBucket: "silog-beee0.appspot.com",
-  messagingSenderId: "1032634910407",
-  appId: "1:1032634910407:web:b5d3fa0e465e533e6ca0e2",
-  measurementId: "G-Y94L5QF3GY"
+  storageBucket: "",
+  messagingSenderId: "",
+  appId: "",
+  measurementId: ""
 };
 
 // Initialize Firebase
